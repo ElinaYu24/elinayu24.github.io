@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "elina's blog"
 title_separator          : "-"
-subtitle                 : # 코딩은 처음이지만 열심히 해볼게요!site tagline that appears below site title in masthead
+subtitle                 : "코딩은 처음이지만 앞으로 열심히 해보겠습니다."
 name                     : "elina yu"
 description              : "An amazing website."
 url                      : "https://elinayu24.github.io"
