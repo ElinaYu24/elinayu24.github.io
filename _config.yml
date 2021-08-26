@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "elina's blog"
+title                    : "elina's world"
 title_separator          : "-"
-subtitle                 : "코딩은 처음이지만 앞으로 열심히 해보겠습니다."
+subtitle                 : "Welcome to my **blog**"
 name                     : "elina yu"
 description              : "An amazing website."
 url                      : "https://elinayu24.github.io"
